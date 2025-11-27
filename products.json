@@ -27,12 +27,12 @@
     "title": "Batik Parang Barong Premium",
     "description": "Motif parang barong sakral keraton Solo, batik tulis premium dengan pewarna soga alam. Melambangkan kekuatan dan keberanian.",
     "price": 250000,
-    "image": "https://raw.githubusercontent.com/samuelnrico/batik-api/main/galery/Batik%20parang.jpeg"
+    "image": "https://raw.githubusercontent.com/samuelnrico/batik-api/refs/heads/main/galery/parangBorang.PNG"
   },
   {
     "title": "Batik Sekar Jagad Elegan",
     "description": "Motif sekar jagad khas Yogyakarta yang berarti 'keindahan dunia', cocok untuk acara spesial. Batik cap kombinasi tulis, warna soft dan mewah.",
     "price": 250000,
-    "image": "https://raw.githubusercontent.com/samuelnrico/batik-api/main/galery/Batik%20mega.jpeg"
+    "image": "https://raw.githubusercontent.com/samuelnrico/batik-api/refs/heads/main/galery/batik%20sekar%20jagat.PNG"
   }
 ]
