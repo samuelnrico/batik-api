@@ -4,12 +4,14 @@
     "description": "Motif parang rusak klasik keraton Yogyakarta, batik tulis asli dengan pewarna soga alam. Cocok untuk acara resmi dan koleksi.",
     "price": 250000,
     "image": "https://raw.githubusercontent.com/samuelnrico/batik-api/main/galery/Batik%20parang.jpeg"
+    "imgStyle": "down"
   },
   {
     "title": "Batik Kawung Picis Modern",
     "description": "Motif kawung kontemporer dengan kombinasi warna soft, nyaman dipakai sehari-hari. Bahan katun primisima.",
     "price": 250000,
     "image": "https://raw.githubusercontent.com/samuelnrico/batik-api/main/galery/batik%20kawung.PNG "
+    "imgStyle": "zoom"
   },
   {
     "title": "Batik Mega Mendung Cirebon",
